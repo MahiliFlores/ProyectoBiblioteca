@@ -21,9 +21,10 @@ public class Principal {
 	    
 	    float numero1=3.1416f;
 	    System.out.println("Pi es equivalente a:" +numero1);
+	    System.out.println("NUEVA MODIFICACION");
 	    
 	    Libros libro;
-	    
+	
 	    LogicaMetodos imp = new LogicaMetodos(); //Instancia de clase 
 	    
 	    //Creacion de do para realizar menu
